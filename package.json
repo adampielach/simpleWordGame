@@ -1,0 +1,15 @@
+{
+  "name": "speed_typing_game",
+  "version": "1.0.0",
+  "description": "Simple js game for guessing words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "game"
+  ],
+  "author": "Adam Pielach",
+  "license": "ISC"
+}
